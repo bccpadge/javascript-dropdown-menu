@@ -10,4 +10,4 @@ Dropdown navigation menu using HTML, CSS, and JavaScript
 
 ### Acknowledgement
 
-I referred to this Freeccodecamp article - [Build a dropdown menu with JavaScript](https://www.freecodecamp.org/news/how-to-build-a-dropdown-menu-with-javascript/)
+I referred to this Freecodecamp article - [Build a dropdown menu with JavaScript](https://www.freecodecamp.org/news/how-to-build-a-dropdown-menu-with-javascript/)
